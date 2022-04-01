@@ -21,3 +21,13 @@
 > ![Dashboard](Resources/Dashboard.png)
 
 ## Summary
+> To summarize our anaylsis here are the key parts.
+* Most users are tend to ride short amound time upto 40 min.
+* Male users has the higher amount among the genders and more likely to subscribe.
+* Most of the rides could be related to commute to work, since before and after the regular shifts period has the common usage in the weekdays.
+* Weekend usage is almost distributed evenly among the daytime and it is a decent amount for usage.
+* Riding distribution among the genders is similar. Since male users has a higher amount it is easy to see and decide the busy hours for rides.
+* Subscribed Male and Female users have been riding more than unsubscribed ones, however Unknown customers tend to ride without subscription.
+### Link
+> Here is the link for the project of Tableau.
+> [Link to Dashboard](https://public.tableau.com/app/profile/nehir1610/viz/Bike_Riding/Story1?publish=yes)
