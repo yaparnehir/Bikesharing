@@ -14,9 +14,9 @@
 > ![Gender](Resources/Checkout_Times_by_Gender.png)
 * After we checked trips was done by gender and among the hours during the weekday. We've also add filters to see desired outputs.
 > ![Trips_by_users](Resources/Trips_By_Gender.png)
-> ![Trips_Hourly](Resources/Trips_by_Week_per_Hour.png)
+> ![Trips_Hourly](Resources/Trips_by_Weekday_per_Hour.png)
 * Finally before creating our Dashboard we've look up to the trips by gender among the weekdays and see subscribed or daily customers usage.
-> ![Users_by_gender](Resources/User_Trip_by_Gender.png)
+> ![Users_by_gender](Resources/User_Trips_by_Gender.png)
 * This following image is the Dashboard created for presentation of our analysis.
 > ![Dashboard](Resources/Dashboard.png)
 
